@@ -1,0 +1,22 @@
+[
+	{ "name": "Auvergne-Rhône-Alpes", "short": "ARA" },
+	{ "name": "Hauts-de-France", "short": "HDF" },
+	{ "name": "Provence-Alpes-Côte d'Azur", "short": "PAC" },
+	{ "name": "Grand Est", "short": "EST" },
+	{ "name": "Occitanie", "short": "OCC" },
+	{ "name": "Normandie", "short": "NOR" },
+	{ "name": "Nouvelle-Aquitaine", "short": "NAQ" },
+	{ "name": "Centre-Val de Loire", "short": "CVL" },
+	{ "name": "Bourgogne-Franche-Comté", "short": "BFC" },
+	{ "name": "Bretagne", "short": "BRE" },
+	{ "name": "Corse", "short": "CRS" },
+	{ "name": "Pays de la Loire", "short": "PDL" },
+	{ "name": "Île-de-France", "short": "IDF" },
+	{ "name": "Guadeloupe", "short": "GUA" },
+	{ "name": "Martinique", "short": "MAR" },
+	{ "name": "Guyane", "short": "GUY" },
+	{ "name": "La Réunion", "short": "REU" },
+	{ "name": "Mayotte", "short": "MAY" },
+	{ "name": "Nouvelle-Calédonie", "short": "NCA" },
+	{ "name": "St Pierre et Miquelon", "short": "POL" }
+]

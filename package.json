@@ -1,0 +1,12 @@
+{
+  "name": "ffe-contracts",
+  "version": "1.0.0",
+  "description": "FFE Objects and Contracts => allow ecosystem development",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Nicolas Seynaeve <nicolas.sey@gmail.com>",
+  "license": "ISC"
+}
