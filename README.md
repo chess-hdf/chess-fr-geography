@@ -1,4 +1,9 @@
-# FFE Dev Elements
+# French Chess Geography
 
-This package is made to provide all const elements required for proper development around French Chess Federation (FFE) systems
-All elements and data in there are packaged to comply with FFE's data structure and may not fit with other systems
+This pack includes json will all elements to provide:
+
+* French regions with national federation codes
+* Same for departments
+* World nations
+
+Goal is to be able to provide proper Player segmentation to any Chess development, especially in France
