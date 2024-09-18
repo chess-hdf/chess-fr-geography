@@ -10,6 +10,6 @@
   "author": "Nicolas Seynaeve <nicolas.sey@gmail.com>",
   "license": "ISC",
   "publishConfig": {
-    "@nicolasey:registry": "https://npm.pkg.github.com"
+    "@chess-hdf:registry": "https://npm.pkg.github.com"
   }
 }
