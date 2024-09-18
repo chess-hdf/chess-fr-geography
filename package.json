@@ -1,12 +1,15 @@
 {
-  "name": "ffe-contracts",
+  "name": "@chess-hdf/chess-fr-geography",
   "version": "1.0.0",
   "description": "FFE Objects and Contracts => allow ecosystem development",
   "main": "index.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["chess", "chess federations", "chess regions", "chess france", "ffe"],
   "author": "Nicolas Seynaeve <nicolas.sey@gmail.com>",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+    "@nicolasey:registry": "https://npm.pkg.github.com"
+  }
 }
